@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Barlow;
+    src: url(Barlow-ExtraBold.ttf);
+}
+body{
+    margin:0px;
+    background-color: #1D1D1D;
+    font-family:Barlow;
+}
